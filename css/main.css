@@ -1,0 +1,8 @@
+.mainTime {
+  text-align: center;
+}
+
+
+div.timer.flip-clock-wrapper {
+  display: inline-block;
+}
